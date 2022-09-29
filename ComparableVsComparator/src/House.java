@@ -1,5 +1,5 @@
 /**
- * COMPARABLE
+ * Implementing the Comparable interface for user defined clas
  * @author joseph
  *
  */
