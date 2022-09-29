@@ -67,7 +67,4 @@ public class House implements Comparable<House>{
 		}
 		return 0;
 	}
-
-	
-	
 }
