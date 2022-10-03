@@ -3,6 +3,7 @@
  * @author joseph
  *
  */
+ 
 public class Dog {
 	
 	private String name;
