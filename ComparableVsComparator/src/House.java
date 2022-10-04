@@ -3,6 +3,7 @@
  * @author joseph
  *
  */
+
 public class House implements Comparable<House>{
 	
 	private String address;
